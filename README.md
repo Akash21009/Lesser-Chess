@@ -4,6 +4,7 @@ Reference: [Playing Manual](https://www.thinkfun.com/wp-content/uploads/2017/10/
 
 ## Images
 <img width="3805" height="2159" alt="Screenshot 2024-07-29 174601" src="https://github.com/user-attachments/assets/28f8ebda-a2df-4619-83f5-3b1661b3123f" />
+<img width="2560" height="1440" alt="{5C57C2FF-009D-4232-B309-5AA9D2AB8D66}" src="https://github.com/user-attachments/assets/feead9af-c5c4-45d9-8b2e-cfce5fb90826" />
 <img width="3840" height="2160" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9ce8bbef-74fe-4967-9aea-33dfa7a87773" />
 <img width="3840" height="2160" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a80da2c7-cd77-41a6-9a82-23387c8a516c" />
 
